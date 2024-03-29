@@ -1,4 +1,4 @@
-# 💰 Stock Market Manipulation using Deep Learning 📈
+# 💰 Stock Market Manipulation Detection using Deep Learning 📈
 
 ---
 
